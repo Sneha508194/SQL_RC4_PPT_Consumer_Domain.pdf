@@ -1,6 +1,4 @@
-# SQL_RC4_PPT_Consumer_Domain.pdf
-
-# 📘 README: SQL_RC4_PPT_Consumer_Domain.pdf
+# README: SQL_RC4_PPT_Consumer_Domain.pdf
 
 ## 🧾 Document Title:
 **SQL_RC4_PPT_Consumer_Domain**
